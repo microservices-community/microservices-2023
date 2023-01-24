@@ -1,0 +1,45 @@
+International Conference on Microservices: Call for Papers
+==========================================================
+
+Fifth International Conference on Microservices
+
+September XXth-YYth 2023, Pisa, Italy
+
+https://www.conf-micro.services/2023/
+
+Important Dates
+---------------
+
+TODO
+
+Theme and Topics
+----------------
+
+TODO
+
+
+Submissions Guidelines
+----------------------
+
+TODO
+
+
+Organisation
+------------
+
+TODO
+
+Steering Committee
+-----------------
+Giulio Manzonetto, Université Sorbonne Paris Nord
+Fabrizio Montesi, University of Southern Denmark
+Sabine Sachweh, University of Applied Sciences and Arts Dortmund
+
+Program Committee
+-----------------
+TODO
+
+Contact Information
+-------------------
+
+Please contact us if you have questions: https://www.conf-micro.services/2023/contact/

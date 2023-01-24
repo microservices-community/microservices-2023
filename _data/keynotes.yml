@@ -1,0 +1,95 @@
+# - speaker: Valentina Lenarduzzi
+#   picture: valentina-lenarduzzi.jpg
+#   title: Technical Debt and Microservices
+#   affiliation: University of Oulu, Finland
+#   abstract: |
+#     The Microservice paradigm is being adopted more and more in industry to support the agility of empowered development teams. However, developing or migrating to microservices is no easy task. The risk of failure is to incur in a large Architectural Technical Debt and, consequently, in costly consequences for the organizations. Agile software development and Continuous Architecting might help to mitigate the negative impact of such Architectural Debt by monitoring its accumulation in a Microservice architecture.
+#   bio: |
+#     Dr. Valentina Lenarduzzi is an assistant professor (tenure track) at University of Oulu (Finland) and docent at LUT University, Finland. Her research activities are related to modern software development practices and methodologies, including data analysis in software engineering, software quality, software maintenance and evolution, focusing on Technical Debt as well as code and architectural smells. She got the Ph.D. in Computer Science in 2015 and was a postdoctoral researcher at the Free University of Bozen-Bolzano, (Italy), at the Tampere University (Finland), and at LUT University (Finland). Moreover, she was visiting researcher at the University of Kaiserslautern (TUK) and the Fraunhofer Institute for Experimental Software Engineering IESE (Germany). She served as a program committee member of various international conferences (e.g., ICPC, ICSME, ESEM), and for various international journals (e.g., TSE, EMSE, JSS, IST) in the field of software engineering. She has been program co-chair of OSS 2021 and TechDebt 2022.  She was also one of the organizer of the last edition of MaLTeSQuE workshop (2022) collocated with ESEC/FSE.  Dr. Lenarduzzi is recognized by the Journal of Systems and Software (JSS) as one of the most active SE researcher in top-quality journals in the period 2013 to 2020.
+
+# - speaker: Fabio Casati
+#   picture: fabio-casati.jpeg
+#   affiliation: Servicenow, USA
+#   bio: |
+#     Fabio Casati is a Principal Machine Learning Architect and
+#     Engineer at Servicenow.<br>
+
+#     Fabio focuses on designing, architecting and deploying AI-powered
+#     workflows for enterprise customers. On the research side, he is
+#     working on AI applied to workflows and on quality in AI. Previously he
+#     was Professor at the University of Trento. In that role, he started
+#     research lines on crowdsourcing and hybrid human-machine computations,
+#     focusing on applications that have direct positive impact on society
+#     through tangible artefacts adopted by the community. Prior to that, he
+#     was technical lead for the research program on business process
+#     intelligence in Hewlett-Packard USA, where he contributed to several
+#     HP commercial products in the area of web services and business
+#     process management. He co-authored a best-selling book on Web services
+#     and is author of over 250 peer-reviewed papers.
+#   title: Crossing the Chasm Between AI Services and AI-powered Workflows
+#   abstract: |
+#     Companies are devoting significant effort -and budget- into powering
+#     their processes with AI. Despite the strong push by both AI customers
+#     (the enterprise) and providers of AI services and technology,
+#     the journey to AI is often not simple -or not as simple as expected at
+#     first- and the benefits are hard to assess. This is surprising to many,
+#     given the amazing success that AI seems to have on all sorts of domains,
+#     where super-human performance is reported in many tasks seemingly related
+#     to what AI is asked to do in the enterprise.
+#     In this talk I will present some of the reasons for the disconnect between
+#     the (perceived) quality of AI services on one side, and the transformational
+#     impact they can have on AI-powered enterprise processes on the other.
+#     I will focus specifically on two key problems that limit adoption of AI
+#     services today. The first is that the way we measure and communicate the quality
+#     of AI services is fundamentally wrong, and this leads to wrong process design
+#     decisions and to an improper use of AI in business processes.
+#     The second is that AI service and technology providers often focus on the benefits
+#     of AI services once in production, but underestimate the importance of simplifying
+#     the journey that process owners have to follow to get there.
+#     I will present concrete examples of both issues, and show (i) how we can rethink
+#     the notion of AI quality in enterprise processes and (ii) how AI can simplify
+#     its own journey to adoption, thereby helping AI services to cross the adoption chasm.
+
+# - speaker: Cesare Pautasso
+#   picture: cesare-pautasso.jpg
+#   affiliation: USI Lugano, Switzerland
+#   bio: |
+#     Cesare Pautasso is full professor at the Software Institute at USI
+#     Lugano, Switzerland.<br>
+
+#     His research group focuses on building experimental systems to explore
+#     the intersection of RESTful conversations, API analytics and liquid
+#     software architectures. He is the general chair for EuroPLoP 2022.
+#     He was the program co-chair for ICWE 2021, ICSOC 2013, ECOWS 2010 and
+#     Software Composition 2008 and the ICWE 2016, ECOWS 2011 general chair.
+#     He is the co-editor of the IEEE Software Insights department.
+#     His e-books on Email Anti-Patterns, Software Architecture, Business
+#     Process Management, and API visualization are available on LeanPub.
+#   title: The Microservice Hypothesis
+#   abstract: |
+#     Microservice architectures are based on the hypothesis that by keeping
+#     components small, this can foster their autonomy and independent evolution.
+#     Microservices reframed the modularity issue as a decomposition problem,
+#     where APIs are introduced to reconnect separately deployed components.
+#     In this talk we will explore a large collection of real-world APIs looking
+#     for patterns attempting to illustrate the relationship between size and
+#     coupling, both in space and time.
+
+# - speaker: Speaker Name
+#   picture: default.png
+#   title:  Keynote Title
+#   affiliation: Affiliation
+#   date: Month Day, Year, Session
+#   abstract: |
+#     Abstrat
+#   bio: |
+#     Bio
+# - speaker: Speaker Name
+#   picture: default.png
+#   title:  Keynote Title
+#   affiliation: Affiliation
+#   date: Month Day, Year, Session
+#   abstract: |
+#     Abstrat
+#   bio: |
+#     Bio

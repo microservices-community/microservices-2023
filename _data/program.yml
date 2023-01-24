@@ -1,0 +1,211 @@
+# ---
+# - day: May 10th
+#   color: "#aeb4ff"
+#   theme: Autonomic Microservices and SW Engineering Approaches
+#   events:
+#     - title: Registration desk
+#       from: "8:40"
+#       to: "9:10"
+#       location: Auditorium
+#     - title: Welcome and opening speech
+#       from: "9:10"
+#       to: "9:30"
+#       authors:
+#         - name: Fabrizio Montesi
+#           title: Speakers
+#       description: |
+#         Opening speech to welcome all the attendees and
+#         introduce the organisation and the environment around the conference.
+#       location: Auditorium
+#     - title: Keynote Speaker
+#       from: "9:30"
+#       to: "10:30"
+#       authors:
+#         - name: Valentina Lenarduzzi
+#           title: Technical Debt and Microservices
+#       description: |
+#         <a href="https://www.conf-micro.services/2022/keynotes/#technical-debt-and-microservices">Abstract of the keynote</a>
+#       slides: Lenarduzzi.pdf
+#       location: Auditorium
+#     - title: Coffee Break
+#       from: "10:30"
+#       to: "11:00"
+#       non-session: true
+#       location: Salle panoramique
+#     - title: Autonomic Microservices
+#       chairs:
+#         - Fabrizio Montesi
+#       from: "11:00"
+#       to: "12:30"
+#       papers:
+#         - 9
+#         - 5
+#         - 14
+#       location: Auditorium
+#     - title: Lunch
+#       from: "12:30"
+#       to: "14:00"
+#       non-session: true
+#       location: Salle panoramique
+#     - title: Automonic Microservices
+#       chairs:
+#         - Jaime Arias
+#       from: "14:00"
+#       to: "15:00"
+#       papers:
+#         - 1
+#         - 12
+#       location: Auditorium
+#     - title: Coffee Break
+#       from: "15:00"
+#       to: "15:30"
+#       non-session: true
+#       location: Salle panoramique
+#     - title: SW Engineering Approaches
+#       chairs:
+#         - Cesare Pautasso
+#       from: "15:30"
+#       to: "16:30"
+#       papers:
+#         - 13
+#         - 11
+#       location: Auditorium
+# - day: May 11th
+#   color: "#aee9ff"
+#   theme: Architectures and Tools
+#   events:
+#     - title: Keynote Speaker
+#       from: "9:30"
+#       to: "10:30"
+#       authors:
+#         - name: Fabio Casati
+#           title: Crossing the Chasm Between AI Services and AI-powered Workflows
+#       description: |
+#         <a href="https://www.conf-micro.services/2022/keynotes/#crossing-the-chasm-between-ai-services-and-ai-powered-workflows">Abstract of the keynote</a>
+#       slides: Casati.pdf
+#       location: Auditorium
+#     - title: Coffee Break
+#       from: "10:30"
+#       to: "11:00"
+#       non-session: true
+#       location: Auditorium
+#     - title: Architectures
+#       chairs:
+#         - Dimka Karastoyanova
+#       from: "11:00"
+#       to: "12:30"
+#       papers:
+#         - 6
+#         - 16
+#         - 2
+#       location: Auditorium
+#     - title: Lunch
+#       from: "12:30"
+#       to: "14:00"
+#       non-session: true
+#       location: Salle panoramique
+#     - title: Tools
+#       chairs:
+#         - Christian Walther Bruun
+#       from: "14:00"
+#       to: "15:30"
+#       papers:
+#         - 10
+#         - 4
+#         - 8
+#       location: Auditorium
+#     - title: Coffee Break
+#       from: "15:30"
+#       to: "16:00"
+#       non-session: true
+#       location: Salle panoramique
+#     - title: Business Meeting
+#       from: "16:00"
+#       to: "17:00"
+#       #      non-session: true
+#       location: Salle panoramique
+#     - title: Social Dinner
+#       from: "19:30"
+#       to: "22:00"
+#       #      non-session: true
+#       location: <a href="https://www.conf-micro.services/2022/attending/#restaurant">Bouillon Racine</a>
+# - day: May 12th
+#   color: "#aeffbf"
+#   theme: Migration to Microservices
+#   events:
+#     - title: Keynote Speaker
+#       from: "9:30"
+#       to: "10:30"
+#       authors:
+#         - name: Cesare Pautasso
+#           title: The Microservice Hypothesis
+#       slides: Pautasso.pdf
+#       description: |
+#         <a href="https://www.conf-micro.services/2022/keynotes/#the-microservice-hypothesis">Abstract of the keynote</a>
+#       location: Auditorium
+#     - title: Coffee Break
+#       from: "10:30"
+#       to: "11:00"
+#       non-session: true
+#       location: Auditorium
+#     - title: Migration to Microservices
+#       chairs:
+#         - Davide Taibi
+#       from: "11:00"
+#       to: "12:00"
+#       papers:
+#         - 7
+#         - 3
+#       location: Auditorium
+#     - title: Lunch
+#       from: "12:00"
+#       to: "13:30"
+#       non-session: true
+#       location: Salle panoramique
+#     - title: Funding and Consortium Building Workshop
+#       from: "13:30"
+#       to: "15:00"
+#       authors:
+#         - Christian Walther Bruun
+#       #      non-session: true
+#       slides: Workshop.pptx
+#       location: Salle panoramique
+#       abstract: |
+#         <strong>Topic:</strong>
+#         <br>
+#         Participants will get insights into the opportunities of obtaining EU funding via the European framework programme Horizon Europe and Eurostars. These support research and innovation activities for companies, universities and organisations interested in developing joint European projects. The workshop will have two main parts:
+#         <br>
+#         <ul>
+#           <li>Overview of funding opportunities relevant for microservices (MSCA, research and innovation project and Eurostars projects)</li>
+#           <li>Project idea pitches and networking amongst participants</li>
+#         </ul>
+
+#         <strong>About me:</strong>
+#         <br>
+#         Christian is a Board Member of Microservices Community and the Director of Grøn/Bruun a pre-award and grant writing consultancy based in Copenhagen Denmark, with clients all over Europe. Grøn/Bruun assists in developing international proposals for industry and academia with a focus on Horizon Europe and the Eurostars funding programmes. Christian has worked in the Danish Agency for Science and Higher Education, European Commission and South Denmark European Office. At these jobs he  was lead or directly involved in the Horizon 2020 Interim Evaluation, FP7 Ex-Post Evaluation, Big Science Business Forum 2018, Horizon 2020 proposals, public affairs, organisational analysis of R&I as well as extensive work with communication and dissemination of research and innovation. <a href="https://www.linkedin.com/in/christian-walther-bruun-4897072/">LinkedIn</a>
+#         <br><br>
+#         <strong>What is Horizon Europe?</strong>
+#         <br>
+#         Horizon Europe is the EU's research and innovation programme, that will run from 2021–2027 with a total budget of around 85 billion EUR, with many types of instruments and grants promoting European research and innovation.
+#         <br><br>
+#         <strong>What is Eurostars?</strong>
+#         <br>
+#         Eurostars is a member state-supported EU programme aimed at promoting innovation in SME’s in Europe by funding collaboration projects for these also including university and large industry partners.
+#         <br><br>
+#         <strong>Who should participate?</strong>
+#         <br>
+#         Industry, organisation and university staff interested in obtaining funding for research or innovation project using microservices or adjacent approaches.
+#         <br><br>
+#         <strong>Why should you participate?</strong>
+#         <br>
+#         Participants will gain insight into the in and outs of Horizon Europe, learning about how to find and read a call, how to build a consortium and meet like-minded people from around Europe.
+#     - title: Coffee Break
+#       from: "15:00"
+#       to: "15:30"
+#       non-session: true
+#       location: Salle panoramique
+#     - title: Awards Ceremony
+#       from: "16:00"
+#       to: "16:30"
+#       #      non-session: true
+#       location: Auditorium
