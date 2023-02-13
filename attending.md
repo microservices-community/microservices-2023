@@ -1,7 +1,7 @@
 ---
 title: Attending
 layout: page
-# feature_image:
+feature_image: "normale.jpg"
 # image_source:
 ---
 

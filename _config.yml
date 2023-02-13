@@ -4,7 +4,7 @@ title: Microservices 2023
 baseurl: /2023
 header:
   city: "Pisa"
-  dates: "September XX-YY, 2023"
+  dates: "October 10-12, 2023"
 email: microservices2023@microservices.community # contact email
 description: "Academia meets Industry"
 timezone: Europe/Rome
@@ -23,7 +23,7 @@ navigation_header:
   Committees: /committees/
   Registration: /registration/
   Contact: /contact/
-  Coc: https://www.microservices.community/events/coc/
+  Code of Conduct: https://www.microservices.community/events/coc/
 
 # Exclude from build -----------------------------------------------------------
 
@@ -60,5 +60,5 @@ defaults:
       type: pages
     values:
       layout: page
-      feature_image: "paris-bg.jpg"
+      feature_image: "pisa_square.jpg"
       # image_source: "Microservice Community"

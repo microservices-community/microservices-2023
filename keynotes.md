@@ -1,7 +1,7 @@
 ---
 title: Keynotes
 layout: page
-# feature_image:
+feature_image: 'river.jpg'
 # image_source:
 ---
 

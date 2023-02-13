@@ -1,6 +1,6 @@
 ---
 layout: home
-feature_image: "paris-bg.jpg"
+feature_image: "pisa_square.jpg"
 # image_source: "Microservices Community"
 excerpt: |
   The Microservices conference is a forum for the discussion of all aspects of designing and programming microservice architectures. Both theoretical and experimental contributions are welcome, on topics ranging from formal frameworks to experience reports.

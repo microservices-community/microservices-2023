@@ -1,20 +1,7 @@
 - type: Sponsor
-  name: Université Sorbonne Paris Nord
-  link: https://www.univ-paris13.fr/
-  logo: USPN.jpg
-- type: Sponsor
-  name: IUT de Villetaneuse
-  link: https://iutv.univ-paris13.fr/
-  logo: iut-villetaneuse.png
-- type: Sponsor
-  name: CNRS
-  link: https://www.cnrs.fr/
-  logo: cnrs.png
-- type: Sponsor
-  tier: silver
-  name: Huawei
-  link: https://blogs.ed.ac.uk/he-lab/
-  logo: Huawei.jpg
+  name: Università di Pisa
+  link: https://www.unipi.it/index.php/english
+  logo: unipi.gif
 # - type: Supporter
 #   name: Supporter Name
 #   link:

@@ -1,8 +1,8 @@
 The **International Conference on Microservices** is a forum for the discussion of all aspects of microservices: their design, programming, and operations. The 2023 edition of the conference (Microservices 2023) will take place in Pisa, Italy.
 
-- Dates: XX-YY September 2023.
+- Dates: October 10-12, 2023.
 
-- Venue: TODO
+- Venue: [Department of Computer Science, University of Pisa](https://www.di.unipi.it/en) -- [Directions](https://goo.gl/maps/yiL4z8wyM1h58AxE7)
 
 The conference's overarching aim is to bring together industry and academia, to foster discussion on practice and research of microservices.
 

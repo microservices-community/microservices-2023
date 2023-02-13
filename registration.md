@@ -1,7 +1,7 @@
 ---
 title: Registration
 layout: page
-# feature_image:
+feature_image: "pisa2.jpg"
 # image_source:
 ---
 

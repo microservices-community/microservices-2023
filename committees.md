@@ -1,7 +1,7 @@
 ---
 title: Committees
 layout: page
-# feature_image:
+feature_image: "rectorate.jpg"
 # image_source:
 ---
 

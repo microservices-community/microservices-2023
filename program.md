@@ -1,7 +1,7 @@
 ---
 title: Program
 layout: page
-# feature_image:
+feature_image: "lungarno.jpg"
 # image_source:
 ---
 
