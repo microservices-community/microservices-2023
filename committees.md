@@ -11,19 +11,19 @@ feature_image: "rectorate.jpg"
 
 <style> td{min-width:12em} td+td{padding-left:10px;}</style>
 
-<!-- ### General Chair
+### General Chair
 
 <table>
   <tbody>
-    <tr><td>Giulio Manzonetto</td><td>University Sorbonne Paris Nord (FR)</td></tr>
+    <tr><td>Antonio Brogi</td><td>University of Pisa (IT)</td></tr>
   </tbody>
 </table>
 ### Program Chairs
 <table>
   <tbody>
-    <tr><td>Gokila Dorai</td><td>Augusta University (US)</td></tr>
-    <tr><td>Dimka Karastoyanova</td><td>University of Groningen (NL)</td></tr>
-    <tr><td>Aomar Osmani</td><td>University Sorbonne Paris Nord (FR)</td></tr>
+    <tr><td>Tomas Cerny</td><td>Baylor University (US)</td></tr>
+    <tr><td>Valentina Lenarduzzi</td><td>University of Oulu (FI)</td></tr>
+    <tr><td>Jacopo Soldani</td><td>University of Pisa (IT)</td></tr>
   </tbody>
 </table>
 ### Industrial Liaison Chair
@@ -35,18 +35,20 @@ feature_image: "rectorate.jpg"
 ### Publicity Chair
 <table>
   <tbody>
-        <tr><td>Pierre Boudes</td><td>University Sorbonne Paris Nord (FR)</td></tr>
-        <tr><td>Florian Rademacher</td><td>University of Applied Sciences and Arts Dortmund (DE)</td></tr>
+        <tr><td>Alessandro Bocci</td><td>University of Pisa (IT)</td></tr>
+        <tr><td>Philip Wizenty</td><td>University of Applied Sciences and Arts Dortmund (DE)</td></tr>
   </tbody>
 </table>
 ### Local Chairs
 <table>
   <tbody>
-        <tr><td>Damiano Mazza</td><td>CNRS, University Sorbonne Paris Nord (FR)</td></tr>
+        <tr><td>Stefano Forti</td><td>University of Pisa (IT)</td></tr>
   </tbody>
 </table>
 ### Program Committee
-<table>
+TBA
+
+<!-- <table>
   <tbody>
         <tr><td>Mohamed Abouelsaoud</td><td>Cisco (CA)</td></tr>
         <tr><td>Vasilios Andrikopoulos</td><td>University of Groningen (NL)</td></tr>

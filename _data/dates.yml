@@ -1,8 +1,8 @@
 - summary: Abstract Submission Deadline
   id: submission
-  expired: true
+  expired: false
   entries:
-    - date: TBA
+    - date: 25-06-23
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
@@ -12,15 +12,15 @@
     #   label: AoE (UTC-12)
 - summary: Author Notification
   id: notification
-  expired: true
+  expired: false
   entries:
-    - date: TBA
+    - date: 09-07-23
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
 - summary: Early bird registration
   id: early-bird
-  expired: true
+  expired: false
   entries:
     - date: TBA
       zone:
@@ -28,16 +28,16 @@
         label: AoE (UTC-12)
 - summary: Camera-ready
   id: camera-ready
-  expired: true
+  expired: false
   entries:
-    - date: TBA
+    - date: 30-07-23
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
 - summary: Registration
   hide_from: ics
   id: registration
-  expired: true
+  expired: false
   entries:
     - from: TBA
       to: TBA
@@ -69,10 +69,10 @@
     website: Conference
     calendar: Microservices 2023
   id: conference
-  expired: true
+  expired: false
   entries:
-    - from: TBA
-      to: TBA
+    - from: 10-10-23
+      to: 12-10-23
       zone:
         tzid: Europe/Berlin
         label: CEST (UTC+2)
