@@ -2,7 +2,7 @@
   id: submission
   expired: false
   entries:
-    - date: 25-06-23
+    - date: 23-06-25
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
@@ -14,7 +14,7 @@
   id: notification
   expired: false
   entries:
-    - date: 09-07-23
+    - date: 23-07-09
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
@@ -30,7 +30,7 @@
   id: camera-ready
   expired: false
   entries:
-    - date: 30-07-23
+    - date: 23-07-30
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
@@ -71,8 +71,8 @@
   id: conference
   expired: false
   entries:
-    - from: 10-10-23
-      to: 12-10-23
+    - from: 23-10-10
+      to: 23-10-12
       zone:
         tzid: Europe/Berlin
         label: CEST (UTC+2)
