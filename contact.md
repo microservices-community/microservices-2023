@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: page
-feature_image: 'fibonacci.jpg'
+feature_image: 'pisa2.jpg'
 # image_source:
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Attending
 layout: page
-feature_image: "normale.jpg"
+feature_image: "fibonacci.jpg"
 # image_source:
 ---
 
@@ -9,7 +9,7 @@ feature_image: "normale.jpg"
   <li role="presentation" class="active">
     <a href="#venue">Venue: Pisa</a>
   </li>
-  <li role="presentation"><a href="#restaurant">Restaurant</a></li>
+  <li role="presentation"><a href="#restaurant">Restaurants</a></li>
   <li role="presentation"><a href="#hotels">Hotels</a></li>
   <li role="presentation"><a href="#visas">Visas</a></li>
 </ul>
