@@ -1,6 +1,6 @@
 <div class="row">
 <div class="text-center">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.5261316243837!2d10.403793831372033!3d43.72039598932277!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d591bcbfe591bb%3A0x91d311f58e2115b6!2sDipartimento%20di%20Informatica!5e0!3m2!1sit!2sit!4v1678205719908!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2883.526313996286!2d10.408278499999998!3d43.720392200000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d591bcbfe591bb%3A0x91d311f58e2115b6!2sDepartment%20of%20Computer%20Science!5e0!3m2!1sen!2sit!4v1678265321943!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 </div>
 
