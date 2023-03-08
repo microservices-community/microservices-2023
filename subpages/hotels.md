@@ -1,6 +1,4 @@
-{% comment %}
 {{ site.title }} does not hold an contingent of rooms at a particular hotel.
-{%- endcomment -%}
 To support you in planning your trip, here are a few accommodation possibilities in the city center. The hotels are in walking distance to the conference venue.
 
 <table class="table">
@@ -13,24 +11,34 @@ To support you in planning your trip, here are a few accommodation possibilities
 </thead>
 <tbody>
 <tr>
-<td>Hotel Di Stefano</td>
+<td>Hotel Di Stefano ***</td>
 <td>500 m</td>
 <td><a href="https://www.hoteldistefano.it/en/" target="_blank">Check availability</a></td>
 </tr>
 <tr>
-<td>Hotel Verdi</td>
-<td>500 m</td>
-<td><a href="https://hotelverdipisa.com/en/home-1/" target="_blank">Check availability</a></td>
-</tr>
-<tr>
-<td>Hotel Leonardo</td>
+<td>Hotel Leonardo ***</td>
 <td>750 m</td>
 <td><a href="http://www.hotelleonardopisa.it/en/home/" target="_blank">Check availability</a></td>
 </tr>
 <tr>
-<td>Royal Victoria Hotel</td>
+<td>Royal Victoria Hotel ***</td>
 <td>900 m</td>
 <td><a href="https://www.royalvictoria.it/?lang=en" target="_blank">Check availability</a></td>
+</tr>
+<tr>
+<td>Grand Hotel Duomo ****</td>
+<td>1.1 km</td>
+<td><a href="https://www.grandhotelduomopisa.it/en/" target="_blank">Check availability</a></td>
+</tr>
+<tr>
+<td>Hotel Bologna ****</td>
+<td>1.4 km</td>
+<td><a href="https://hotelbologna.pisa.it/en/" target="_blank">Check availability</a></td>
+</tr>
+<tr>
+<td>Hotel Repubblica Marinara ****</td>
+<td>1.9 km</td>
+<td><a href="https://www.hotelrepubblicamarinara.it/en/" target="_blank">Check availability</a></td>
 </tr>
 </tbody>
 </table>
