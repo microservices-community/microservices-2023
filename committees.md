@@ -46,29 +46,26 @@ feature_image: "rectorate.jpg"
   </tbody>
 </table>
 ### Program Committee
-TBA
-
-<!-- <table>
+<table>
   <tbody>
-        <tr><td>Mohamed Abouelsaoud</td><td>Cisco (CA)</td></tr>
-        <tr><td>Vasilios Andrikopoulos</td><td>University of Groningen (NL)</td></tr>
-        <tr><td>Jaime Arias</td><td>CNRS, University Sorbonne Paris Nord (FR)</td></tr>
-        <tr><td>Ibrahim Baggili</td><td>University of New Haven (US)</td></tr>
-        <tr><td>Salima Benbernou</td><td>University of Paris (FR)</td></tr>
-        <tr><td>Matteo Bordin</td><td>Profesia (IT)</td></tr>
-        <tr><td>Elisabetta Di Nitto</td><td>Politecnico di Milano (IT)</td></tr>
-        <tr><td>Lyes Khoukhi</td><td>ENSICAEN (FR)</td></tr>
-        <tr><td>Piyush Kumar</td><td>Florida State University (US)</td></tr>
-        <tr><td>Patricia Lago</td><td>Vrije Universiteit Amsterdam (NL)</td></tr>
-        <tr><td>Giuseppe Lipari</td><td>University of Lille (FR)</td></tr>
-        <tr><td>Anupama Pathirage</td><td>WSO2 (US)</td></tr>
-        <tr><td>Pierluigi Plebani</td><td>Politecnico di Milano (IT)</td></tr>
-        <tr><td>Dakshitha Ratnayake</td><td>WSO2 (US)</td></tr>
-        <tr><td>Maria Seralessandri</td><td>European Central Bank (DE)</td></tr>
-        <tr><td>Matteo Zanioli</td><td>Alpenite (IT)</td></tr>
-        <tr><td>Asli Zengin</td><td>Imola Informatica (IT)</td></tr>
+        <tr><td>Amr S. Abdelfattah</td><td>Baylor University (USA)</td></tr>
+        <tr><td>Nour Ali Brunel</td><td>University London (UK)</td></tr>
+        <tr><td>Carlo Aliprandi</td><td>Extra RED (IT)</td></tr>
+        <tr><td>Hernán Astudillo</td><td>Universidad Técnica Federico Santa Maria (CL)</td></tr>
+        <tr><td>Luciano Baresi</td><td>Politecnico di Milano (IT)</td></tr>
+        <tr><td>Justus Bogner</td><td>University of Stuttgart (DE)</td></tr>
+        <tr><td>Andrea Janes Vorarlberg</td><td>University of Applied Science (AT)</td></tr>
+        <tr><td>Ivan Lanese</td><td>University of Bologna (IT)</td></tr>
+        <tr><td>Pavas Navaney</td><td>Oracle (USA)</td></tr>
+        <tr><td>Phu Nguyen</td><td>SINTEF (NO)</td></tr>
+        <tr><td>Claus Pahl</td><td>Free University of Bozen-Bolzano (IT)</td></tr>
+        <tr><td>Florian Rademacher</td><td>RWTH Aachen University (DE)</td></tr>
+        <tr><td>Larisa Safina</td><td>INRIA (FR)</td></tr>
+        <tr><td>Davide Taibi</td><td>University of Oulu (FI)</td></tr>
+        <tr><td>Pavel Tisnovsky</td><td>Red Hat (USA)</td></tr>
   </tbody>
 </table>
+<!-- 
 ### Website Administrator
 <table>
   <tbody>
