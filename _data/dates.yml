@@ -22,7 +22,7 @@
   id: early-bird
   expired: false
   entries:
-    - date: TBA
+    - date: 23-07-30
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
@@ -34,13 +34,12 @@
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)
-- summary: Registration
+- summary: Late Registration
   hide_from: ics
   id: registration
   expired: false
   entries:
-    - from: TBA
-      to: TBA
+    - date: 23-09-25
       zone:
         tzid: Etc/GMT-12
         label: AoE (UTC-12)

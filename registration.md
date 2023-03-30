@@ -10,8 +10,8 @@ feature_image: "normale.jpg"
 
 ## Dates
 
-- **Early registration deadline:** TODO
-- **Late registration deadline:** TODO
+- **Early registration deadline:** 30th Jul 2023
+- **Late registration deadline:** 25th Sep 2023
 
 ## Participant Registration
 
@@ -19,18 +19,23 @@ The Conference registration fee includes:
 
 - Participation in all technical sessions
 - Digital Access to conference pre-proceedings
-- A meal and coffee breaks during the conference.
+- Meals and coffee breaks during the conference.
 
-The participation in the conference social dinner can be bought separately
-during the registration process (one ticket per person).
+The participation in the conference social dinner can be paid directly on-site. You will receive instructions after the registration.
 
-**At least one author per paper must register.**
+**At least one author per paper must register at full rate.**
 
 ## Registration Process
 
+1. Download and complete the registration form in all its parts,
+2. Sign it, scan it and send it to <a href="mailto:ricerca@di.unipi.it">ricerca@di.unipi.it</a>, and 
+3. Follow the instructions on the second page of the registration form to proceed with the payment.
+
 <div markdown="1" class="text-justify">
 <p style="margin:2em;" class="text-center">
-        <button style="padding:1em;" type="button" class="btn btn-primary btn-lg disabled">The registration is closed</button>
+    <a href="http://pages.di.unipi.it/forti/microservices23/registrationform.doc" target="_blank">
+        <button style="padding:1em;" type="button" class="btn btn-primary btn-lg enabled">Download the registration form</button>
+    </a>
 </p>
 <div class="clearfix"></div>
 
@@ -57,9 +62,15 @@ If you are interested in joining the community, follow this link:
 <tbody>
 
 <tr>
-    <td>TODO</td>
-    <td>TODO</td>
-    <td>TODO</td>
+    <td>Full registration</td>
+    <td>250,00€</td>
+    <td>300,00€</td>
+</tr>
+
+<tr>
+    <td>Student registration</td>
+    <td>190,00€</td>
+    <td>230,00€</td>
 </tr>
 </tbody>
 </table>
