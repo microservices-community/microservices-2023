@@ -4,14 +4,16 @@ layout: page
 feature_image: "normale.jpg"
 # image_source:
 ---
+{% assign early_entry = site.data.dates | where: "id", "early-bird" %}
+{% assign early_date = early_entry[0].entries[0].date | date: "%a, %d %b %Y"%}
+{% assign registration_entry = site.data.dates | where: "id", "registration" %}
+{% assign registration_date = registration_entry[0].entries[0].date | date: "%a, %d %b %Y"%}
 
-{% assign registration_dates = site.data.dates | where: "id", "registration" %}
-{% assign registration_end = registration_dates[0].entries[0].to | date: "%a %d %b %Y" %}
 
 ## Dates
 
-- **Early registration deadline:** 30th Jul 2023
-- **Late registration deadline:** 25th Sep 2023
+- **Early registration deadline:** {{ early_date }}
+- **Late registration deadline:** {{ registration_date }}
 
 ## Participant Registration
 

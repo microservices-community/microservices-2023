@@ -4,36 +4,36 @@
   entries:
     - date: 23-06-25
       zone:
-        tzid: Etc/GMT-12
-        label: AoE (UTC-12)
+        tzid: Europe/Berlin
+        label: CEST (UTC+2)
     # - date: XX-XX-XX      SUBSEQUENT DATES CROSS OUT PREVIOUS ONES
     # zone:
-    #   tzid: Etc/GMT-12
-    #   label: AoE (UTC-12)
+    #   tzid: Europe/Berlin
+    #   label: CEST (UTC+2)
 - summary: Author Notification
   id: notification
   expired: false
   entries:
     - date: 23-07-09
       zone:
-        tzid: Etc/GMT-12
-        label: AoE (UTC-12)
+        tzid: Europe/Berlin
+        label: CEST (UTC+2)
 - summary: Early bird registration
   id: early-bird
   expired: false
   entries:
     - date: 23-07-30
       zone:
-        tzid: Etc/GMT-12
-        label: AoE (UTC-12)
+        tzid: Europe/Berlin
+        label: CEST (UTC+2)
 - summary: Camera-ready
   id: camera-ready
   expired: false
   entries:
     - date: 23-07-30
       zone:
-        tzid: Etc/GMT-12
-        label: AoE (UTC-12)
+        tzid: Europe/Berlin
+        label: CEST (UTC+2)
 - summary: Late Registration
   hide_from: ics
   id: registration
@@ -41,8 +41,8 @@
   entries:
     - date: 23-09-25
       zone:
-        tzid: Etc/GMT-12
-        label: AoE (UTC-12)
+        tzid: Europe/Berlin
+        label: CEST (UTC+2)
 
 # - summary: Registration opens
 #   hide_from: website
