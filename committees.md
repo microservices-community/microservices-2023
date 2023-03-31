@@ -32,17 +32,17 @@ feature_image: "rectorate.jpg"
     <tr><td>Claudio Guidi</td><td>ItalianaSoftware (IT)</td></tr>
   </tbody>
 </table>
-### Publicity Chair
+### Local Chair
+<table>
+  <tbody>
+        <tr><td>Stefano Forti</td><td>University of Pisa (IT)</td></tr>
+  </tbody>
+</table>
+### Publicity Chairs
 <table>
   <tbody>
         <tr><td>Alessandro Bocci</td><td>University of Pisa (IT)</td></tr>
         <tr><td>Philip Wizenty</td><td>University of Applied Sciences and Arts Dortmund (DE)</td></tr>
-  </tbody>
-</table>
-### Local Chairs
-<table>
-  <tbody>
-        <tr><td>Stefano Forti</td><td>University of Pisa (IT)</td></tr>
   </tbody>
 </table>
 ### Program Committee

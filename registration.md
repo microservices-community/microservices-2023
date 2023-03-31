@@ -35,7 +35,7 @@ The participation in the conference social dinner can be paid directly on-site. 
 
 <div markdown="1" class="text-justify">
 <p style="margin:2em;" class="text-center">
-    <a href="http://pages.di.unipi.it/forti/microservices23/registrationform.doc" target="_blank">
+    <a href="https://pages.di.unipi.it/forti/microservices23/registrationform.doc" target="_blank">
         <button style="padding:1em;" type="button" class="btn btn-primary btn-lg enabled">Download the registration form</button>
     </a>
 </p>
