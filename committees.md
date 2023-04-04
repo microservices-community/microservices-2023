@@ -54,7 +54,7 @@ feature_image: "rectorate.jpg"
         <tr><td>Hernán Astudillo</td><td>Universidad Técnica Federico Santa Maria (CL)</td></tr>
         <tr><td>Luciano Baresi</td><td>Politecnico di Milano (IT)</td></tr>
         <tr><td>Justus Bogner</td><td>University of Stuttgart (DE)</td></tr>
-        <tr><td>Andrea Janes Vorarlberg</td><td>University of Applied Science (AT)</td></tr>
+        <tr><td>Andrea Janes</td><td>Vorarlberg University of Applied Science (AT)</td></tr>
         <tr><td>Ivan Lanese</td><td>University of Bologna (IT)</td></tr>
         <tr><td>Pavas Navaney</td><td>Oracle (USA)</td></tr>
         <tr><td>Phu Nguyen</td><td>SINTEF (NO)</td></tr>
