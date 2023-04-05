@@ -39,4 +39,4 @@ Please contact the [chairs](./committees/) if you have questions.
 
 <div class="alert alert-info hidden-print" role="alert">
 <span class="glyphicon glyphicon-info-sign"></span> The call is also available as a text file <a href="{{ "/cfp.txt" | relative_url }}">here</a>.
-</div> -->
+</div> 
