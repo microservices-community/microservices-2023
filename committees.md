@@ -49,7 +49,7 @@ feature_image: "rectorate.jpg"
 <table>
   <tbody>
         <tr><td>Amr S. Abdelfattah</td><td>Baylor University (USA)</td></tr>
-        <tr><td>Nour Ali Brunel</td><td>University London (UK)</td></tr>
+        <tr><td>Nour Ali</td><td>Brunel University London (UK)</td></tr>
         <tr><td>Carlo Aliprandi</td><td>Extra RED (IT)</td></tr>
         <tr><td>Hernán Astudillo</td><td>Universidad Técnica Federico Santa Maria (CL)</td></tr>
         <tr><td>Luciano Baresi</td><td>Politecnico di Milano (IT)</td></tr>
@@ -63,6 +63,9 @@ feature_image: "rectorate.jpg"
         <tr><td>Larisa Safina</td><td>INRIA (FR)</td></tr>
         <tr><td>Davide Taibi</td><td>University of Oulu (FI)</td></tr>
         <tr><td>Pavel Tisnovsky</td><td>Red Hat (USA)</td></tr>
+        <tr><td>Nabil El Ioini</td><td>The University of Nottingham (MY)</td></tr>
+        <tr><td>Richard Lipka</td><td>University of West Bohemia (CZ)</td></tr>
+        <tr><td>Muhammad Waseem</td><td>University of Jyväskylä (FI)</td></tr>
   </tbody>
 </table>
 <!-- 
