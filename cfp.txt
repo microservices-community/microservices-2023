@@ -3,14 +3,18 @@ International Conference on Microservices: Call for Papers
 
 Fifth International Conference on Microservices
 
-September XXth-YYth 2023, Pisa, Italy
+October 10th-12th 2023, Pisa, Italy
 
 https://www.conf-micro.services/2023/
 
 Important Dates
 ---------------
 
-TODO
+- Submission deadline : June 25th, 2023 (AoE)
+- Notification to authors: July 9th, 2023 (AoE)
+- Camera-ready due: July 30th, 2023 (AoE)
+- Early bird registration until: July 30th, 2023 (AoE)
+- October 10th-12th, 2023
 
 Theme and Topics
 ----------------
@@ -56,11 +60,26 @@ Contributions may be submitted via TBA. The submission deadline is June 25th, 20
 Contributions will be reviewed and selected by the Program Committee. Extended abstracts of accepted contributions will be available electronically before the conference. Selected contributions will be invited to submit manuscripts based on their abstracts for conference post-proceedings.
 
 
-
 Organisation
 ------------
 
-TODO
+General Chair:
+Antonio Brogi, University of Pisa (IT)
+
+Program Chairs:
+Tomas Cerny, Baylor University (US)
+Valentina Lenarduzzi, University of Oulu (FI)
+Jacopo Soldani, University of Pisa (IT)
+
+Industrial Liaison Chair:
+Claudio Guidi, italianaSoftware (IT)
+
+Publicity Chair:
+Alessandro Bocci, University of Pisa (IT)
+Philip Wizenty, University of Applied Sciences and Arts Dortmund (DE)
+
+Local Chairs:
+Stefano Forti, University of Pisa (IT)
 
 Steering Committee
 -----------------
@@ -70,7 +89,25 @@ Sabine Sachweh, University of Applied Sciences and Arts Dortmund
 
 Program Committee
 -----------------
-TODO
+
+Amr S. Abdelfattah, Baylor University (USA)
+Nour Ali, Brunel University London (UK)
+Carlo Aliprandi, Extra RED (IT)
+Hernán Astudillo, Universidad Técnica Federico Santa Maria (CL)
+Luciano Baresi, Politecnico di Milano (IT)
+Justus Bogner, University of Stuttgart (DE)
+Andrea Janes, Vorarlberg University of Applied Science (AT)
+Ivan Lanese, University of Bologna (IT)
+Pavas Navaney, Oracle (USA)
+Phu Nguyen, SINTEF (NO)
+Claus Pahl, Free University of Bozen-Bolzano (IT)
+Florian Rademacher, RWTH Aachen University (DE)
+Larisa Safina, INRIA (FR)
+Davide Taibi, University of Oulu (FI)
+Pavel Tisnovsky, Red Hat (USA)
+Nabil El Ioini, The University of Nottingham (MY)
+Richard Lipka, University of West Bohemia (CZ)
+Muhammad Waseem, University of Jyväskylä (FI)
 
 Contact Information
 -------------------
