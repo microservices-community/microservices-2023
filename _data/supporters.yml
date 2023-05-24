@@ -6,6 +6,14 @@
   name: Microservices Community
   link: https://www.microservices.community
   logo: mcLogo.png
+- type: Sponsor
+  name: Domotz
+  link: https://www.domotz.com/
+  logo: domotz.png
+- type: Sponsor
+  name: Rjc Soft
+  link: https://www.rjcsoft.it/
+  logo: rjcsoft.png
 # - type: Supporter
 #   name: Supporter Name
 #   link:
