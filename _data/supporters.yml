@@ -2,6 +2,10 @@
   name: Università di Pisa
   link: https://www.unipi.it/index.php/english
   logo: unipi.gif
+- type: Sponsor
+  name: Microservices Community
+  link: https://www.microservices.community
+  logo: mcLogo.png
 # - type: Supporter
 #   name: Supporter Name
 #   link:
