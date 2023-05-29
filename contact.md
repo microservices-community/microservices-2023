@@ -1,11 +1,11 @@
 ---
-title: Contact
+title: Contact us
 layout: page
 feature_image: 'pisa2.jpg'
 # image_source:
 ---
 
-<form method="POST" action="https://formspree.io/f/xnqwjanz">
+<form method="POST" action="https://formspree.io/f/mjvddljk">
   <input type="text" name="name" placeholder="Your name">
   <input type="email" name="email" placeholder="Your email (required)" required="required">
   <input type="text" name="subject" value="[Microservices 2023]">
