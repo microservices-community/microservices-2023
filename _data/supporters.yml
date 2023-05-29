@@ -1,16 +1,16 @@
-- type: Sponsor
+- type: Organiser
   name: Università di Pisa
   link: https://www.unipi.it/index.php/english
   logo: unipi.gif
-- type: Sponsor
+- type: Organiser
   name: Microservices Community
   link: https://www.microservices.community
   logo: mcLogo.png
-- type: Sponsor
+- type: Gold Sponsor
   name: Domotz
   link: https://www.domotz.com/
   logo: domotz.png
-- type: Sponsor
+- type: Gold Sponsor
   name: Rjc Soft
   link: https://www.rjcsoft.it/
   logo: rjcsoft.png
