@@ -8,12 +8,12 @@
   logo: mcLogo.png
 - type: Gold Sponsor
   name: Domotz
-  link: https://www.domotz.com/
-  logo: domotz.png
+  link: /2023/domotz
+  logo: domotzBanner.png
 - type: Gold Sponsor
   name: Rjc Soft
-  link: https://www.rjcsoft.it/
-  logo: rjcsoft.png
+  link: /2023/rjcsoft
+  logo: rjcsoftBanner.png
 # - type: Supporter
 #   name: Supporter Name
 #   link:
