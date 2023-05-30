@@ -11,7 +11,7 @@
  - speaker: Davide Taibi
    picture: taibi_davide.jpg
    title: Monolithic to Microservice to Monolithic. Are we rolling back?
-   affiliation: University of Oulu, Oulu (Finland)
+   affiliation: University of Oulu,Oulu (Finland)
    abstract: |
      Companies migrated to microservices for various reasons, often following the hype or hoping to find the silver bullet. While multiple companies had experienced important improvement in their velocity and on their team independence, other companies did not achieve their expected benefits. Recently, there is a trend of migrating back to monolithic systems, and different technologies such as the “Modular monolith” have been introduced in the market. In this talk we will discuss of the most recent trends on microservices, and in particular on the technologies adopted by these companies, and the   reasons why the rolled back from microservices.
    bio: |
