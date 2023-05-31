@@ -1,7 +1,7 @@
  - speaker: Andrea Janes
    picture: janes_andrea.jpg
    title: Assessing the scalability of microservice architectures
-   affiliation: FHV - Vorarlberg University of Applied Sciences, Dornbirn (Austria)
+   affiliation: Vorarlberg University of Applied Sciences, Dornbirn (Austria)
    abstract: |
      Microservices have emerged as an architectural style for developing maintainable and scalable applications. Assessing the performance of architecture deployment configurations — e.g., with respect to deployment alternatives — is challenging and must be aligned with the system usage in the production environment. In this talk I present an approach for using operational profiles to generate load tests to automatically assess scalability pass/fail criteria of microservice configuration alternatives. The approach provides a domain-based metric for each alternative that can, for instance, be applied to make informed decisions about the selection of alternatives and to conduct production monitoring regarding performance-related system properties, e.g., anomaly detection. We have evaluated our approach using extensive experiments in a large bare metal host environment and a virtualized environment. The talk with briefly introduce the concept of microservices, present the deployment approach and the evaluation approach based on the open source tool locust.io; it will present the tool PPTAM used to conduct the experiments and the performed data analysis.
    bio: |
@@ -11,7 +11,7 @@
  - speaker: Davide Taibi
    picture: taibi_davide.jpg
    title: Monolithic to Microservice to Monolithic. Are we rolling back?
-   affiliation: University of Oulu,Oulu (Finland)
+   affiliation: University of Oulu, Oulu (Finland)
    abstract: |
      Companies migrated to microservices for various reasons, often following the hype or hoping to find the silver bullet. While multiple companies had experienced important improvement in their velocity and on their team independence, other companies did not achieve their expected benefits. Recently, there is a trend of migrating back to monolithic systems, and different technologies such as the “Modular monolith” have been introduced in the market. In this talk we will discuss of the most recent trends on microservices, and in particular on the technologies adopted by these companies, and the   reasons why the rolled back from microservices.
    bio: |
