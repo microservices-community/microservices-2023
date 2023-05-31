@@ -77,20 +77,7 @@
 }
 </style>
 
-<div class="panel panel-primary">
-<div class="panel-heading">
-<strong>Sponsors & Supporters</strong>
-</div>
-<ul class="list-group">
-{% for supporter in site.data.supporters %}
-<li class="list-group-item">
-  <div class="row">
-  <div class="col-sm-7 col-md-9 vcenter"><a href="{{ supporter.link }}"><img class="img-responsive center-block" src="{{ '/assets/images/supporters/' | append: supporter.logo | relative_url }}" alt="{{supporter.name}}"></a></div><div class="col-sm-4 col-md-3 text-center text-muted vcenter">{% if supporter.tier %}{{supporter.tier | capitalize }} {% endif%}{{supporter.type}}</div>
-  </div>
-</li>
-{% endfor %}
-</ul>
-</div>
+{% include sponsors-column.html %}
 
 {% if site.twitter_feed %}
 <div class="panel panel-primary">

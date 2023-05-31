@@ -8,11 +8,11 @@
   logo: mcLogo.png
 - type: Gold Sponsor
   name: Domotz
-  link: https://www.conf-micro.services/2023/domotz/
+  landing: /domotz/
   logo: domotzBanner.png
 - type: Gold Sponsor
   name: Rjc Soft
-  link: https://www.conf-micro.services/2023/rjcsoft/
+  landing: /rjcsoft/
   logo: rjcsoftBanner.png
 # - type: Supporter
 #   name: Supporter Name
