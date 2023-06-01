@@ -6,14 +6,7 @@
   name: Microservices Community
   link: https://www.microservices.community
   logo: mcLogo.png
-- type: Gold Sponsor
-  name: Domotz
-  landing: /domotz/
-  logo: domotzBanner.png
-- type: Gold Sponsor
-  name: Rjc Soft
-  landing: /rjcsoft/
-  logo: rjcsoftBanner.png
+
 # - type: Supporter
 #   name: Supporter Name
 #   link:

@@ -1,5 +1,5 @@
 ---
-title: RJC Soft - Gold Sponsor
+title: RJC Soft
 layout: page-landing-sponsors
 feature_image: "/supporters/rjcsoft.png"
 # image_source:
