@@ -10,9 +10,9 @@
 # Address
 
 <address>
-Dipartimento di Informatica
+Department of Computer Science
 
-Università di Pisa
+University of Pisa
 Largo B. Pontecorvo, 3
 56127 Pisa
 </address>

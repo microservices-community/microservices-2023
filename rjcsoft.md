@@ -5,7 +5,7 @@ feature_image: "/supporters/rjcsoft.png"
 # image_source:
 ---
 
-![Gold Sponsor](../assets/images/supporters/gold.png)
+![RJC Soft](../assets/images/supporters/rjcPic.jpg)
 
 [RJC Soft](https://www.rjcsoft.it/) has been operating in the IT sector for over 30 years and has collaborated with many of the largest national and international companies. He has worked on occupational health and safety management systems and has extensive experience in modelling physical processes. Always committed to research and technological innovation, RJC Soft cares about the cultivation and training of young talents.
  

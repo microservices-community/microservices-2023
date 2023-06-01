@@ -19,6 +19,12 @@ excerpt: |
 
 {% include_relative include_md.html file="subpages/keynote_speakers.md" %}
 
+<div  markdown="1">
+
+<h2>Call for Sponsors</h2>
+See [here](https://docs.google.com/document/d/1xzpl8-XV-ubqNpWX0UxW8Qevf4fLBNTXz5cX7JIrjeE/edit?usp=sharing) how you can support MICROSERVICES 2023.
+
+</div>
 {% include_relative include_md.html file="subpages/conference_theme.md" %}
 
 </div>

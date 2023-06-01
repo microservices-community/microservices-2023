@@ -8,7 +8,7 @@ header:
 email: microservices2023@microservices.community # contact email
 description: "Academia meets Industry"
 timezone: Europe/Rome
-# twitter_feed: c_microservices
+twitter_feed: c_microservices
 # legal_notice_url: /legal-notice
 community_badge:
   asset: "1-black.png"
