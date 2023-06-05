@@ -1,10 +1,10 @@
 ### Keynote Speakers
 
-<div>
+<div class="panel" style="display:inline-flex;">
 {% for keynote in site.data.keynotes %}
-  <div class="panel panel-primary" style="display:inline-block; padding:10px; margin:10px; width: 30%">
+  <div class="panel panel-primary" style="display:inline-grid; padding:10px; margin:10px; width: 50%;">
     {% if keynote.picture %}
-    <img class="card-img" style="max-height:120px;max-width:120px;" src="{{ 'assets/images/speakers/' | append: keynote.picture | relative_url }}">
+    <img class="card-img-top" style="max-height:120px;max-width:120px;" src="{{ 'assets/images/speakers/' | append: keynote.picture | relative_url }}">
     {% endif %}
     <div class="card-body">    
       {% assign anchor = keynote.title | slugify %}
@@ -13,6 +13,6 @@
       {{keynote.affiliation}} </p>
       <a class="card-link" href="{{ 'keynotes/#' | append: anchor  | relative_url }}">Details</a>
     </div>
-  </div>
+  </div>  
 {% endfor %}
 </div>

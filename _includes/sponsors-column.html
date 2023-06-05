@@ -67,7 +67,9 @@
     {% for sponsor in site.data.sponsors %}
     <li class="list-group-item">
       <div class="row">     
-      <div class="col-sm-4 col-md-4 vcenter padding-0"><a href="{{ sponsor.link }}"><img src="{{ '/assets/images/supporters/' | append: sponsor.logo | relative_url }}" alt="{{sponsor.name}}"></a></div><div class="col-sm-3 col-md-3 vcenter padding-0"><img src="{{ '/assets/images/supporters/goldM.png' | relative_url }}"></div><div class="col-sm-4 col-md-4 vcenter padding-0"><button class="buttons" role="button" onclick="location.href='{{ site.url | append: site.baseurl | append: sponsor.landing }}'">Meet {{ sponsor.name }}!</button></div>
+        <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 vcenter padding-0"><a href="{{ sponsor.link }}"><img src="{{ '/assets/images/supporters/' | append: sponsor.logo | relative_url }}" alt="{{sponsor.name}}"></a></div>
+        <div class="col-2 col-sm-2 col-md-2 col-lg-2 col-xl-2 vcenter padding-0"><img src="{{ '/assets/images/supporters/goldM.png' | relative_url }}" width="60" height="60"></div>
+        <div class="col-3 col-sm-3 col-md-3 col-lg-2 col-xl-2 vcenter padding-0"><button class="buttons" role="button" onclick="location.href='{{ site.url | append: site.baseurl | append: sponsor.landing }}'">Meet {{ sponsor.name }}!</button></div>
       </div>
     </li>
     {% endfor %}
