@@ -1,7 +1,7 @@
 ---
 title: RJC Soft
 layout: page-landing-sponsors
-feature_image: "/supporters/rjcsoft.png"
+feature_image: "/supporters/rjcsoftBanner.png"
 # image_source:
 ---
 

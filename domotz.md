@@ -1,7 +1,7 @@
 ---
 title: Domotz
 layout: page-landing-sponsors
-feature_image: "/supporters/domotz.png"
+feature_image: "/supporters/domotzBanner.png"
 # image_source:
 ---
 

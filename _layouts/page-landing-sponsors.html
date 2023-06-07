@@ -2,7 +2,72 @@
 layout: default
 ---
 
-{% include site-header.html %}
+<header class="header">
+  <script type="text/javascript" src="{{ "/assets/scripts/jquery.min.js" | relative_url }}"></script>
+  <script type="text/javascript" src="{{ "/assets/scripts/bootstrap.min.js" | relative_url }}"></script>
+  
+    <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+   ga('create', 'UA-102422292-1', 'auto');
+   ga('send', 'pageview');
+
+  </script>
+
+{% assign feature_text = page.feature_text %}
+{% assign feature_image = page.feature_image %}
+{% assign image_source = page.image_source %}
+{% if page.collectionpage %}
+  {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+  {% assign feature_text = collectiondata.feature_text %}
+  {% assign feature_image = collectiondata.feature_image %}
+  {% assign image_source = collectiondata.image_source %}
+{% endif %}
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-6 col-sm-6 vertical-align">
+      <a style="color:inherit; text-decoration: none !important; display: flex;" href="/">
+        <img style="width: 75px; margin-right: 5px;" src="{{ '/assets/images/microservices.svg' | relative_url }}" alt="">
+        <div style="display: inline-block;">
+          <h2 style="margin-bottom:0px">Microservices 2023</h2>
+          <p>{{ site.header.city }}, {{ site.header.dates }}</p>
+        </div>
+      </a>
+    </div>
+    <div class="col-xs-6 col-sm-6 vertical-align">
+      <div class="col-xs-5 col-xs-offset-7 col-sm-offset-10 col-sm-2"><ul style="list-style-type:none; margin:0; padding:0; overflow:hidden;">
+        <li style="float:right;">
+          <a style="display:block; color:inherit; text-decoration:none !important;" href="https://microservices.community/e/{{ site.community_badge.token }}">
+            <img class="img-responsive" style="position:absolute; top:10px; z-index:10; right:5px; transform: rotate(25deg);" src="https://microservices.community/assets/images/badges/{{ site.community_badge.asset }}" alt="">
+          </a>
+        </li>
+      </ul></div>
+    </div>
+  </div>
+</div>
+{% if feature_text or feature_image %}
+  <div class="text-center">
+    <img src="{%- if feature_image contains 'http' -%} {{ feature_image }} {%- else -%} {{ '/assets/images/' | append: feature_image | relative_url }} {%- endif -%}" style="max-width:800px;width:100%"  class="rounded">
+       {% if image_source %}
+	  <div style="position: absolute; bottom: 8px; left: 16px; color:white;">Source: {{ image_source }}</div>
+	  {% endif %}
+      <div class="mycontainer  typeset">
+        {{ feature_text | markdownify }}
+      </div>
+  </div>
+{% endif %}
+
+  <div class="mycontainer">
+      
+    {% include nav-header.html %}
+
+  </div>
+
+</header>
 
 <main class="main container">
 
