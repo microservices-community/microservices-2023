@@ -1,3 +1,5 @@
+CFP: Fifth International Conference on Microservices
+
 International Conference on Microservices: Call for Papers
 ==========================================================
 
@@ -7,11 +9,11 @@ October 10th-12th 2023, Pisa, Italy
 
 https://www.conf-micro.services/2023/
 
-Important Dates
+Important Dates (EXTENDED)
 ---------------
 
-- Submission deadline : June 25th, 2023 (AoE)
-- Notification to authors: July 9th, 2023 (AoE)
+- Submission deadline : July 09th, 2023 (AoE) (extended)
+- Notification to authors: July 19th, 2023 (AoE) (extended)
 - Camera-ready due: July 30th, 2023 (AoE)
 - Early bird registration until: July 30th, 2023 (AoE)
 - October 10th-12th, 2023

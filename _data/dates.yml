@@ -2,6 +2,10 @@
   id: submission
   expired: false
   entries:
+    - date: 23-07-09
+      zone:
+        tzid: Etc/GMT-12
+        label: AoE (UTC-12)
     - date: 23-06-25
       zone:
         tzid: Europe/Berlin
@@ -14,6 +18,10 @@
   id: notification
   expired: false
   entries:
+    - date: 23-07-19
+      zone:
+        tzid: Etc/GMT-12
+        label: AoE (UTC-12)
     - date: 23-07-09
       zone:
         tzid: Europe/Berlin
