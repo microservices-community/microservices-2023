@@ -10,10 +10,10 @@
 
  - speaker: Davide Taibi
    picture: taibi_davide.jpg
-   title: Monolithic to Microservice to Monolithic. Are we rolling back?
+   title: Monolithic to Microservice to ... Are we rolling back?
    affiliation: University of Oulu, Oulu (Finland)
    abstract: |
-     Companies migrated to microservices for various reasons, often following the hype or hoping to find the silver bullet. While multiple companies had experienced important improvement in their velocity and on their team independence, other companies did not achieve their expected benefits. Recently, there is a trend of migrating back to monolithic systems, and different technologies such as the “Modular monolith” have been introduced in the market. In this talk we will discuss of the most recent trends on microservices, and in particular on the technologies adopted by these companies, and the   reasons why the rolled back from microservices.
+     Companies migrated to microservices for various reasons, often following the hype or hoping to find the silver bullet. While multiple companies had experienced important improvements in their velocity and their team independence, other companies did not achieve their expected benefits. Recently, there has been a trend of migrating microservice systems to other technologies. Serverless first, but also data meshes and, in extreme cases, even rolling back to monolithic systems. In this talk, we will discuss the most recent trends in microservices and, in particular the reasons why they moved out from traditional microservices versus other technologies.
    bio: |
      Davide Taibi is full Professor at the University of Oulu (Finland) where he heads the M3S Cloud research group. His research is mainly focused on the migration to cloud-native technologies. He is investigating processes, and techniques for developing Cloud Native applications, identifying cloud-native specific patterns and anti-patterns, and methods to prevent the degradation. He is member of the International Software Engineering Network (ISERN) from 2018.
    linkedin: http://linkedin.com/in/davidetaibi/
