@@ -1,7 +1,7 @@
 ---
 title: Vedrai
 layout: page-landing-sponsors
-feature_image: "/supporters/vedraiBanner.png"
+feature_image: "/supporters/vedrai.png"
 # image_source:
 ---
 
