@@ -17,3 +17,13 @@
    bio: |
      Davide Taibi is full Professor at the University of Oulu (Finland) where he heads the M3S Cloud research group. His research is mainly focused on the migration to cloud-native technologies. He is investigating processes, and techniques for developing Cloud Native applications, identifying cloud-native specific patterns and anti-patterns, and methods to prevent the degradation. He is member of the International Software Engineering Network (ISERN) from 2018.
    linkedin: http://linkedin.com/in/davidetaibi/
+
+ - speaker: Stefano Monti
+   picture: monti_stefano.png
+   title: "Keeping expectations high in face of big challenges: managing performance in microservices architectures"
+   affiliation: italianaSoftware s.r.l., Imola (Italy)
+   abstract: |
+     Managing performance is hard. Managing performance in distributed, fragmented architectures such as MSAs is even harder: bottlenecks and slowdowns can happen at any point in a complex, most of the times asynchronous, interaction chain. The usual way organizations tackle performance issues is monitoring runtime expectations and addressing problems once they arise, in typical war room fashions, with huge teams involved in long, highly pressured investigation and troubleshooting sessions on the misbehaving production systems (often ending up “giving more power” to the underlying infrastructure as the default response). We believe performance (and associated costs) should be considered as a first-class citizen, starting from thorough architecture and solution design phases, and encompassing performance management and tuning throughout the entire software development lifecycle. Based on our direct experiences in a number of war rooms and our tested beliefs of better ways of designing for performance, we discuss the mindset and some approaches to enable shifting left performance management and tools in complex, distributed architectures.
+   bio: |
+      Stefano Monti is an architect and senior advisor at IMOLA Informatica and he is currently involved in the design and management of digital transformation programs for customers, mainly in the financial sector. His current interests relate to software development lifecycle, with a specific focus on monitoring/observability, and end-to-end software quality and performance.
+   linkedin: https://www.linkedin.com/in/claudioguidi/
