@@ -53,6 +53,7 @@ feature_image: "rectorate.jpg"
         <tr><td>Carlo Aliprandi</td><td>Extra RED (IT)</td></tr>
         <tr><td>Hernán Astudillo</td><td>Universidad Técnica Federico Santa Maria (CL)</td></tr>
         <tr><td>Luciano Baresi</td><td>Politecnico di Milano (IT)</td></tr>
+        <tr><td>Alessandro Bocci</td><td>University of Pisa (IT)</td></tr>
         <tr><td>Justus Bogner</td><td>University of Stuttgart (DE)</td></tr>
         <tr><td>Andrea Janes</td><td>Vorarlberg University of Applied Science (AT)</td></tr>
         <tr><td>Ivan Lanese</td><td>University of Bologna (IT)</td></tr>
