@@ -16,7 +16,7 @@
     #   label: CEST (UTC+2)
 - summary: Author Notification
   id: notification
-  expired: false
+  expired: true
   entries:
     - date: 23-07-19
       zone:
@@ -25,7 +25,7 @@
     - date: 23-07-09
       zone:
         tzid: Europe/Berlin
-        label: CEST (UTC+2)
+        label: AoE (UTC-12)
 - summary: Early bird registration
   id: early-bird
   expired: false
@@ -33,7 +33,7 @@
     - date: 23-07-30
       zone:
         tzid: Europe/Berlin
-        label: CEST (UTC+2)
+        label: AoE (UTC-12)
 - summary: Camera-ready
   id: camera-ready
   expired: false
@@ -41,7 +41,7 @@
     - date: 23-07-30
       zone:
         tzid: Europe/Berlin
-        label: CEST (UTC+2)
+        label: AoE (UTC-12)
 - summary: Late Registration
   hide_from: ics
   id: registration
@@ -50,7 +50,7 @@
     - date: 23-09-25
       zone:
         tzid: Europe/Berlin
-        label: CEST (UTC+2)
+        label: AoE (UTC-12)
 
 # - summary: Registration opens
 #   hide_from: website
