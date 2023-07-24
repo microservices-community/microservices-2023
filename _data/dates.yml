@@ -38,7 +38,7 @@
   id: camera-ready
   expired: false
   entries:
-    - date: 23-07-30
+    - date: 23-08-31
       zone:
         tzid: Europe/Berlin
         label: AoE (UTC-12)
