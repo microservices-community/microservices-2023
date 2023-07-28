@@ -45,7 +45,7 @@ feature_image: "rectorate.jpg"
         <tr><td>Philip Wizenty</td><td>University of Applied Sciences and Arts Dortmund (DE)</td></tr>
   </tbody>
 </table>
-### Program Committee
+### Technical Program Committee
 <table>
   <tbody>
         <tr><td>Amr S. Abdelfattah</td><td>Baylor University (USA)</td></tr>
