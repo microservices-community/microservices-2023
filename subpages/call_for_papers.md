@@ -31,9 +31,11 @@ The 5th International Conference on Microservices (Microservices 2023) seeks con
 
 We solicit contributed talks based work in progress, scientific work published or submitted for publication, or practical experience reports. Authors wishing to present their work are invited to submit extended abstracts following the <a onclick="$('#submission_tab a').trigger('click'); return false;" href="#submission">submission guidelines</a>. Abstracts and presentations must be in English.
 
-## Post-proceedings
+## Post-proceedings and special issue
 
 Depending on the success of this initiative, we are considering the publication of a volume of post-proceedings, for which there will be a separate call for papers. In this way, the interested authors will have a chance to enrich their contributions according to the feedback they received during the event.
+
+The authors of some selected abstracts presented at MICROSERVICES2023 will be invited to contribute an original research paper to the special issue of Electronics (Q2) on ["Microservices: Design, Programming, and Operations"](https://www.mdpi.com/journal/electronics/special_issues/9922BC45VF). 
 
 Please contact the [chairs](./committees/) if you have questions.
 
