@@ -86,10 +86,10 @@ The finalised version will be published at the beginning of February.
               </strong>
               {% unless tentative %}
               <br>
-              {% if paper.paper %}
               {% if paper.size %}
-              <span class="label label-success">{{paper.size}}</span>
+                <span class="label label-success">{{paper.size}}</span>
               {% endif %}
+              {% if paper.paper %}
                 <a target="_blank" style="color:white" href="{{ "/papers/" | append: paper.paper | relative_url }}">
                   <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
                 </label></a>

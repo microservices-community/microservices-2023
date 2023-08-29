@@ -3,7 +3,7 @@
     - Michele Danieli
     - Giuseppe De Palma (Presenting)
   title: Energy-Consumption Analysis forCloud-Native Development Approaches
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: long
   #  slides: empty_slides.pdf
   abstract: |
@@ -17,7 +17,7 @@
     - Tomas Cerny 
     - Davide Taibi (Presenting)
   title: "ChatGPT for Microservice Development: How far can we go?"
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: long
   #  slides: empty_slides.pdf
   abstract: |
@@ -41,7 +41,7 @@
     - Majid Haghparast 
     - Juan M. Murillo
   title: Quantum Microservices Development and Deployment
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: long
   #  slides: empty_slides.pdf
   abstract: |
@@ -53,7 +53,7 @@
     - Matteo Trentin  
     - Gejsi Vjerdha (Presenting)
   title: A Framework for Bridging the Gap between Monolithic and Serverless Programming 
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: long
   #  slides: empty_slides.pdf
   abstract: |
@@ -64,7 +64,7 @@
 - authors:
     - Sebastian Copei (Presenting)
   title: A practical experience report on movingfrom VM to Kubernetes in an academicresearch group 
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: long
   #  slides: empty_slides.pdf
   abstract: |
@@ -75,7 +75,7 @@
     - Xiaozhou Li
     - Davide Taibi 
   title: "Back to the Future: From Microservice to Monolith"
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: long
   #  slides: empty_slides.pdf
   abstract: |
@@ -88,7 +88,7 @@
     - Horst Sauer 
     - Matthias Saft
   title: "The Fault in Our Services: Investigating Integration-Relevant Faults in Microservices"
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: long
   #  slides: empty_slides.pdf
   abstract: |
@@ -97,7 +97,7 @@
 - authors:
     - Jonas Sorgalla (Presenting) 
   title: What Microservice Teams Need to Know of Each Other
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: long
   #  slides: empty_slides.pdf
   abstract: |
@@ -108,7 +108,7 @@
     - Claudio Guidi
     - Luca Tagliavini (Presenting)
   title: A Unifying, Lightweight Platform for Microservice and Serverless Deployments
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: long
   #  slides: empty_slides.pdf
   abstract: |
@@ -120,7 +120,7 @@
     - Finn Kaiser
     - Holger Giese 
   title: "STIGs: Spatio-Temporal Graphs for Expressing Microservice Interference" 
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: short
   #  slides: empty_slides.pdf
   abstract: |
@@ -134,7 +134,7 @@
     - Hernán Astudillo
     - Sabine Sachweh 
   title: Towards Model-driven Resolving of Security Smells in Microservices
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: long
   #  slides: empty_slides.pdf
   abstract: |
@@ -146,7 +146,7 @@
     - Justus Bogner
     - Stefan Wagner 
   title: "Tools for Refactoring to Microservices: A Preliminary Usability Report"
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: long
   #  slides: empty_slides.pdf
   abstract: |
@@ -155,7 +155,7 @@
 - authors:
     - Pietro Ferrara (Presenting)
   title: "[Micro]services: threat, challenge, or opportunity for sound static program analysis?"
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: long
   #  slides: empty_slides.pdf
   abstract: |
@@ -165,7 +165,7 @@
     - Hugo Monfleur (Presenting)
     - Philippe Merle 
   title: Towards Concern-Oriented Microservice Architecture
-  paper: empty_paper.pdf
+  # paper: empty_paper.pdf
   size: short
   #  slides: empty_slides.pdf
   abstract: |

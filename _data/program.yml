@@ -105,22 +105,22 @@
       #location: Auditorium
     - title: Coffee Break
       from: "14:30"
-      to: "10:30"
+      to: "15:00"
       non-session: true
       #location: Salle panoramique
     - title: Session 4 - Micorservice Architecture
       #chairs:
       #  - Cesare Pautasso
-      from: "15:30"
-      to: "17:20"
+      from: "15:00"
+      to: "16:50"
       papers:
         - 11
         - 12
         - 13
         - 14
     - title: Closing (with award ceremony)
-      from: "17:20"
-      to: "17:30"
+      from: "16:50"
+      to: "17:00"
       non-session: true
       #location: Auditorium
 # - day: May 11th
