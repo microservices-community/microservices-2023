@@ -1,75 +1,128 @@
-# ---
-# - day: May 10th
-#   color: "#aeb4ff"
-#   theme: Autonomic Microservices and SW Engineering Approaches
-#   events:
-#     - title: Registration desk
-#       from: "8:40"
-#       to: "9:10"
-#       location: Auditorium
-#     - title: Welcome and opening speech
-#       from: "9:10"
-#       to: "9:30"
-#       authors:
-#         - name: Fabrizio Montesi
-#           title: Speakers
-#       description: |
-#         Opening speech to welcome all the attendees and
-#         introduce the organisation and the environment around the conference.
-#       location: Auditorium
-#     - title: Keynote Speaker
-#       from: "9:30"
-#       to: "10:30"
-#       authors:
-#         - name: Valentina Lenarduzzi
-#           title: Technical Debt and Microservices
-#       description: |
-#         <a href="https://www.conf-micro.services/2022/keynotes/#technical-debt-and-microservices">Abstract of the keynote</a>
-#       slides: Lenarduzzi.pdf
-#       location: Auditorium
-#     - title: Coffee Break
-#       from: "10:30"
-#       to: "11:00"
-#       non-session: true
-#       location: Salle panoramique
-#     - title: Autonomic Microservices
-#       chairs:
-#         - Fabrizio Montesi
-#       from: "11:00"
-#       to: "12:30"
-#       papers:
-#         - 9
-#         - 5
-#         - 14
-#       location: Auditorium
-#     - title: Lunch
-#       from: "12:30"
-#       to: "14:00"
-#       non-session: true
-#       location: Salle panoramique
-#     - title: Automonic Microservices
-#       chairs:
-#         - Jaime Arias
-#       from: "14:00"
-#       to: "15:00"
-#       papers:
-#         - 1
-#         - 12
-#       location: Auditorium
-#     - title: Coffee Break
-#       from: "15:00"
-#       to: "15:30"
-#       non-session: true
-#       location: Salle panoramique
-#     - title: SW Engineering Approaches
-#       chairs:
-#         - Cesare Pautasso
-#       from: "15:30"
-#       to: "16:30"
-#       papers:
-#         - 13
-#         - 11
-#       location: Auditorium
+---
+- day: Tuesday October 10th
+  color: "#aeb4ff"
+  #theme: Autonomic Microservices and SW Engineering Approaches
+  events:
+    - title: Opening
+      from: "9:20"
+      to: "9:30"
+      non-session: true
+      description: |
+        Opening speech to welcome all the attendees and
+        introduce the organisation and the environment around the conference.
+    - title: Keynote
+      from: "9:30"
+      to: "10:30"
+      authors:
+        - name: Davide Taibi
+          title: Monolithic to Microservice to ... Are we rolling back?
+      description: |
+        <a href="https://www.conf-micro.services/2023/keynotes/#monolithic-to-microservice-to-are-we-rolling-back">Abstract of the keynote</a>
+      #slides: Lenarduzzi.pdf
+      #location: Auditorium
+    - title: Coffee Break
+      from: "10:30"
+      to: "11:00"
+      non-session: true
+      #location: Salle panoramique
+    - title: Session 1 - Microservice Development
+      from: "11:00"
+      to: "12:30"
+      papers:
+        - 1
+        - 2
+        - 3
+      #location: Auditorium
+    - title: Lunch Break
+      from: "12:30"
+      to: "13:30"
+      non-session: true
+      #location: Salle panoramique
+    - title: Session 2 - Monoliths vs Microservices
+      #chairs:
+      #  - Jaime Arias
+      from: "13:30"
+      to: "15:00"
+      papers:
+        - 4
+        - 5
+        - 6
+      #location: Auditorium
+    - title: Coffee Break
+      from: "15:00"
+      to: "15:30"
+      non-session: true
+      #location: Salle panoramique
+    - title: Session 3 - Micorservice Integration
+      #chairs:
+      #  - Cesare Pautasso
+      from: "15:30"
+      to: "17:20"
+      papers:
+        - 7
+        - 8
+        - 9
+        - 10
+      #location: Auditorium
+- day: Wednesday October 11th
+  color: "#aeb4ff"
+  #theme: Autonomic Microservices and SW Engineering Approaches
+  events:
+    - title: Keynote
+      from: "9:30"
+      to: "10:30"
+      authors:
+        - name: Andrea Janes
+          title: Assessing the scalability of microservice architectures
+      description: |
+        <a href="https://www.conf-micro.services/2023/keynotes/#assessing-the-scalability-of-microservice-architectures">Abstract of the keynote</a>
+      #slides: Lenarduzzi.pdf
+      #location: Auditorium
+    - title: Coffee Break
+      from: "10:30"
+      to: "11:00"
+      non-session: true
+      #location: Salle panoramique
+    - title: Workshop
+      from: "11:00"
+      to: "12:30"
+      description: |
+        Consortium Building Workshop.
+    - title: Lunch Break
+      from: "12:30"
+      to: "13:30"
+      non-session: true
+      #location: Salle panoramique
+    - title: Keynote
+      from: "13:30"
+      to: "14:30"
+      authors:
+        - name: Stefano Monti
+          title: "Keeping expectations high in face of big challenges: managing performance in microservices architectures"
+      description: |
+        <a href="https://www.conf-micro.services/2023/keynotes/#keeping-expectations-high-in-face-of-big-challenges-managing-performance-in-microservices-architectures">Abstract of the keynote</a>
+      #slides: Lenarduzzi.pdf
+      #location: Auditorium
+    - title: Coffee Break
+      from: "14:30"
+      to: "10:30"
+      non-session: true
+      #location: Salle panoramique
+    - title: Session 4 - Micorservice Architecture
+      #chairs:
+      #  - Cesare Pautasso
+      from: "15:30"
+      to: "17:20"
+      papers:
+        - 11
+        - 12
+        - 13
+        - 14
+    - title: Closing (with award ceremony)
+      from: "17:20"
+      to: "17:30"
+      non-session: true
+      #location: Auditorium
 # - day: May 11th
 #   color: "#aee9ff"
 #   theme: Architectures and Tools

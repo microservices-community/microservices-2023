@@ -28,7 +28,7 @@ The finalised version will be published at the beginning of February.
 
 {% for day in site.data.program %}
 
-<div style="margin-top:30px;background-color:{{ day.color }};border-radius: 5px 5px 0px 0px;padding-left: 5px;padding-bottom: 20px;padding-top: 1px;"><h1>{{ day.day }} (Theme: {{ day.theme }})</h1></div>
+<div style="margin-top:30px;background-color:{{ day.color }};border-radius: 5px 5px 0px 0px;padding-left: 5px;padding-bottom: 20px;padding-top: 1px;"><h1>{{ day.day }} </h1></div>
 <table class="col-xs-12">
   <tbody>
       {% for event in day.events %}
@@ -43,7 +43,7 @@ The finalised version will be published at the beginning of February.
           <br>
           {% for author in event.authors %}
             {% if author.title %}
-              {{author.title}}: <strong>{{author.name}}</strong>
+              {{author.title}} (<strong>{{author.name}}</strong>)
             {% else %}
               <strong>{{author}}</strong>
             {% endif %}
@@ -87,6 +87,9 @@ The finalised version will be published at the beginning of February.
               {% unless tentative %}
               <br>
               {% if paper.paper %}
+              {% if paper.size %}
+              <span class="label label-success">{{paper.size}}</span>
+              {% endif %}
                 <a target="_blank" style="color:white" href="{{ "/papers/" | append: paper.paper | relative_url }}">
                   <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper
                 </label></a>
@@ -113,7 +116,9 @@ The finalised version will be published at the beginning of February.
             {% endif %}
           {% endif %}
           <br>
+          {% if event.location %}
           Location: <strong>{{event.location}}</strong>
+          {% endif %}
         </td>
       </tr>
       {% endfor %}
