@@ -1,5 +1,5 @@
 ---
-- day: Tuesday October 10th
+- day: Tuesday, October 10th
   color: "#aeb4ff"
   #theme: Autonomic Microservices and SW Engineering Approaches
   events:
@@ -64,8 +64,8 @@
         - 9
         - 10
       #location: Auditorium
-- day: Wednesday October 11th
-  color: "#aeb4ff"
+- day: Wednesday, October 11th
+  color: "#aee9ff"
   #theme: Autonomic Microservices and SW Engineering Approaches
   events:
     - title: Keynote
