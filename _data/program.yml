@@ -53,7 +53,7 @@
       to: "15:30"
       non-session: true
       #location: Salle panoramique
-    - title: Session 3 - Micorservice Integration
+    - title: Session 3 - Microservice Integration
       #chairs:
       #  - Cesare Pautasso
       from: "15:30"
@@ -108,7 +108,7 @@
       to: "15:00"
       non-session: true
       #location: Salle panoramique
-    - title: Session 4 - Micorservice Architecture
+    - title: Session 4 - Microservice Architecture
       #chairs:
       #  - Cesare Pautasso
       from: "15:00"
