@@ -11,6 +11,8 @@
         Opening speech to welcome all the attendees and
         introduce the organisation and the environment around the conference.
     - title: Keynote
+      chairs:
+        - J. Soldani
       from: "9:30"
       to: "10:30"
       authors:
@@ -26,6 +28,8 @@
       non-session: true
       #location: Salle panoramique
     - title: Session 1 - Microservice Development
+      chairs:
+        - S. Forti
       from: "11:00"
       to: "12:30"
       papers:
@@ -39,6 +43,8 @@
       non-session: true
       #location: Salle panoramique
     - title: Session 2 - Monoliths vs Microservices
+      chairs:
+        - P. Wizenty
       #chairs:
       #  - Jaime Arias
       from: "13:30"
@@ -54,8 +60,8 @@
       non-session: true
       #location: Salle panoramique
     - title: Session 3 - Microservice Integration
-      #chairs:
-      #  - Cesare Pautasso
+      chairs:
+        - D. Taibi
       from: "15:30"
       to: "17:20"
       papers:
@@ -64,11 +70,21 @@
         - 9
         - 10
       #location: Auditorium
+    - title: Social Event (Included in conference registration)
+      from: "17:30"
+      to: "19:00"
+      non-session: true
+    - title: Social Dinner (Included in conference registration)
+      from: "20:00"
+      to: "23:00"
+      non-session: true
 - day: Wednesday, October 11th
   color: "#aee9ff"
   #theme: Autonomic Microservices and SW Engineering Approaches
   events:
     - title: Keynote
+      chairs:
+        - V. Lenarduzzi
       from: "9:30"
       to: "10:30"
       authors:
@@ -94,6 +110,8 @@
       non-session: true
       #location: Salle panoramique
     - title: Keynote
+      chairs:
+        - A. Brogi
       from: "13:30"
       to: "14:30"
       authors:
@@ -109,8 +127,8 @@
       non-session: true
       #location: Salle panoramique
     - title: Session 4 - Microservice Architecture
-      #chairs:
-      #  - Cesare Pautasso
+      chairs:
+        - A. Janes
       from: "15:00"
       to: "16:50"
       papers:
