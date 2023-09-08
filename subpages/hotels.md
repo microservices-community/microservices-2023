@@ -44,7 +44,3 @@ To support you in planning your trip, here are a few accommodation possibilities
 </table>
 
 You will often get <strong>better rates</strong> on [Booking.com](https://www.booking.com), [Tripadvisor](https://www.tripadvisor.it) or similar sites, especially by booking flight and accommodation together.
-
-**ConferenceShare service**
-
-Looking to cut costs? Connect with other attendees to split conference costs. Sign up at [conferenceshare.co](https://www.conferenceshare.co) to find attendees with whom you can share hotel room, taxi, or car rental.
