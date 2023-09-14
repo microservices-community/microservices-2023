@@ -1,0 +1,34 @@
+<style>
+  .vcenter { 
+   display: inline-block;
+   vertical-align: middle;
+   float: none;
+ }
+
+.padding-0{
+    padding-right:4px;
+    padding-left: 4px;
+}
+.myItem{
+    width: 30%;
+    vertical-align: middle;
+    height: 100%;
+    line-height:100%;
+    vertical-align: middle;
+}
+</style>
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+    <strong>Media Partner</strong>
+    </div>
+    <ul class="list-group">
+    {% for mediapartner in site.data.mediapartners %}
+    <li class="list-group-item">
+      <div class="row">
+        <div class="text-center"><a href="{{ mediapartner.link }}"><img class="img-responsive center-block" src="{{ '/assets/images/supporters/' | append: mediapartner.logo | relative_url }}" alt="{{mediapartner.name}}" width="150" height="100"></a></div>
+      </div>
+    </li>
+    {% endfor %}
+    </ul>
+</div>

@@ -39,6 +39,10 @@ The authors of some selected abstracts presented at MICROSERVICES2023 will be in
 
 Please contact the [chairs](./committees/) if you have questions.
 
+## Awards ##
+
+The Technical Program Committee of MICROSERVICES2023 will assign up to 3 “Best Contribution Awards” to selected oustanding abstracts presented at the conference. The awards are sponsored by MDPI Electronics and MDPI Software.
+
 <div class="alert alert-info hidden-print" role="alert">
 <span class="glyphicon glyphicon-info-sign"></span> The call is also available as a text file <a href="{{ "/cfp.txt" | relative_url }}">here</a>.
 </div> 
