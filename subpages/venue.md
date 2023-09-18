@@ -10,11 +10,12 @@
 # Address
 
 <address>
-Department of Computer Science
-
-University of Pisa
+Department of Computer Science, University of Pisa
+<br>
 Largo B. Pontecorvo, 3
 56127 Pisa
+<br>
+Building C - Second Floor
 </address>
 # Website 
 [Department of Computer Science, University of Pisa](https://www.di.unipi.it/en) -- [Directions](https://goo.gl/maps/yiL4z8wyM1h58AxE7)
