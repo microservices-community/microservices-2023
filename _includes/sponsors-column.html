@@ -67,7 +67,7 @@
     <ul class="list-group">
     {% for sponsor in site.data.sponsors %}
     <li class="list-group-item">
-      <div class="row">     
+      <div class="row  container-fluid">     
         <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5 vcenter padding-0"><a href="{{ sponsor.link }}"><img src="{{ '/assets/images/supporters/' | append: sponsor.logo | relative_url }}" alt="{{sponsor.name}}"></a></div>
         {% if sponsor.type== "Gold Sponsor" %}
         <div class="col-2 col-sm-2 col-md-2 col-lg-2 col-xl-2 vcenter padding-0"><img src="{{ '/assets/images/supporters/goldM.png' | relative_url }}" width="60" height="60"></div>
