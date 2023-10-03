@@ -45,7 +45,7 @@
 - summary: Late Registration
   hide_from: ics
   id: registration
-  expired: false
+  expired: true
   entries:
     - date: 23-09-25
       zone:
