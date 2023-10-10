@@ -50,8 +50,8 @@
 - authors:
     - Giuseppe De Palma 
     - Saverio Giallorenzo 
-    - Matteo Trentin  
-    - Gejsi Vjerdha (Presenting)
+    - Matteo Trentin (Presenting)  
+    - Gejsi Vjerdha
   title: A Framework for Bridging the Gap between Monolithic and Serverless Programming 
   paper: 16-depalma-framework-monolithic-serverless.pdf
   size: long
