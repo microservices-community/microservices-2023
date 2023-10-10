@@ -7,6 +7,7 @@
       from: "9:20"
       to: "9:30"
       non-session: true
+      slides: Welcome.pdf
       description: |
         Opening speech to welcome all the attendees and
         introduce the organisation and the environment around the conference.
@@ -20,7 +21,7 @@
           title: Monolithic to Microservice to ... Are we rolling back?
       description: |
         <a href="https://www.conf-micro.services/2023/keynotes/#monolithic-to-microservice-to-are-we-rolling-back">Abstract of the keynote</a>
-      #slides: Lenarduzzi.pdf
+      #slides: Welcome.pdf
       #location: Auditorium
     - title: Coffee Break
       from: "10:30"
