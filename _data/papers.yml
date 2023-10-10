@@ -71,8 +71,8 @@
     Using Kubernetes in a productive environment increases the complexity of the needed software stack. Without further maintenance of the software infrastructure, technical debts can quickly arise. With this experience report, we want to outline our migration from classic VMs over Docker to a Kubernetes infrastructure for both providing software for our research projects and also for productive software. Despite all the challenges and barriers, the benefits after a successful migration, such as fast and easy CI/CD or the rollout of any service, are worth it.
 # 6
 - authors:
-    - Ruoyu Su (Presenting) 
-    - Xiaozhou Li
+    - Ruoyu Su 
+    - Xiaozhou Li (Presenting) 
     - Davide Taibi 
   title: "Back to the Future: From Microservice to Monolith"
   paper: 06-su-back-to-the-monolith.pdf
