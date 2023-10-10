@@ -104,9 +104,9 @@
     Building microservice-based applications inherently becomes an effort of multiple teams collaborating to achieve a common goal. While previous research has shown that the necessary alignment of organization and software architecture is a major challenge in the application of microservices, the act of collaboration has not been researched in detail. Therefore, we conduct a first qualitative study comprising five experts on which types of information should be shared between teams for successful microservice development. Our results show that the planned evolution of a microservice and the affiliation to business processes are of primary concern when it comes to information that should be shared between teams. Our findings can be used in tool development, to cross-reference information sharing behavior in practice, as well as foundation for future quantitative research.
 # 9
 - authors:
-    - Saverio Giallorenzo
+    - Saverio Giallorenzo (Presenting)
     - Claudio Guidi
-    - Luca Tagliavini (Presenting)
+    - Luca Tagliavini 
   title: A Unifying, Lightweight Platform for Microservice and Serverless Deployments
   paper: 05-giallorenzo-unifying-platform.pdf
   size: long
